@@ -2,6 +2,8 @@
 
 using namespace std;
 
+aaaa;
+
 int main(){
 
     return 0;
